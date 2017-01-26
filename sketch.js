@@ -26,8 +26,8 @@ function draw(){
 
 //  ellipse( width*0.3 , height*0.3 , 20 , 20 );
 
-  var r = random( 0 , 255 );
-  var g = random( 0 , 255 );
+  var r = random( 0 , 35 );
+  var g = random( 0 , 150 );
   var b = random( 0 , 255 );
 
   var p0 = createVector( 80 , 80 );
