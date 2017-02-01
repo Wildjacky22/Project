@@ -38,7 +38,7 @@ function draw(){
   push();
   translate(0.5*width , 0.5*height);
   
-  var N = 60;
+  var N = 40;
   for(var n= 0 ; n < N ; n++){
   push();
   var ang = n/N*2*PI;
